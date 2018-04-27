@@ -1,12 +1,12 @@
 {
-  "name": "angucomplete-alt",
-  "version": "3.0.0",
-  "description": "Awesome Autocompleteness for AngularJS",
+  "name": "angucomplete-alt-lucascco",
+  "version": "1.0.1",
+  "description": "Awesome Autocompleteness for AngularJS - Fork angucomplete-alt ghiden",
   "author": "ghiden",
   "email": "hidenari@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ghiden/angucomplete-alt.git"
+    "url": "https://github.com/lucascco/angucomplete-alt"
   },
   "engines": {
     "node": ">= 0.8.4"
@@ -29,4 +29,3 @@
     "load-grunt-tasks": "~0.2.0"
   }
 }
-
